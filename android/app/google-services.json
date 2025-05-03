@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "601124639008",
+    "firebase_url": "https://projeto-laborial---virtnuvem-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "projeto-laborial---virtnuvem",
+    "storage_bucket": "projeto-laborial---virtnuvem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601124639008:android:acee515d5958a334f70745",
+        "android_client_info": {
+          "package_name": "com.example.copia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjZDXGV6ZtzsYE1uliv-bCgjs8hEYsemY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
