@@ -16,7 +16,10 @@ o Firebase, e implementação de interfaces intuitivas para experiências de bem
 
 ## Quem participou?
 Este projeto foi realizado por 3 alunas da Lincenciatura de Informática Web, Móvel e na Nuvem.
-
+- Beatriz Santos
+- Inês Santos
+- Manoela Azevedo
+  
 ## Que linguagens de programação foram utilizadas?
 - dart
 
